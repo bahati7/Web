@@ -1,0 +1,10 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-image: url('../images/bg.png');
+    background-repeat: repeat;
+    color: #fff;
+  }
+  body h1,h4,h5{
+    color: #ffc107;
+  }
